@@ -61,12 +61,6 @@ library
     Data.Bifunctor.Wrapped
     Data.Bifunctor.Yoneda
 
-  other-modules:
-    Data.Bifunctor.TH.Internal
-    Data.Bifunctor.Unsafe
-    Data.Bifunctor.ShowRead
-    Paths_bifunctors
-
   autogen-modules:
     Paths_bifunctors
 
